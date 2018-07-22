@@ -5,8 +5,8 @@ window.onload = () => {
     let root = document.getElementById("display");
     let name = 1;
 
-    const nameArray = ["wdy", "lqy", "zzy", "zyf"];
-    const contentArray = ["Agree", "No", "wooops", "emmmm"];
+    const nameArray = ["Eric", "Derek", "Mars", "Max"];
+    const contentArray = ["Hello ~",  "Trump is good", "what??", "hehe"];
     input_button.addEventListener("click", () => {
         for (let i = 0; i < 3; i++) {
             setTimeout(() => {

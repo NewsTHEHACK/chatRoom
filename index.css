@@ -1,12 +1,12 @@
 .mdui-chip {
-    max-width: 30%;
+    max-width: 45%;
     margin: .4em;
 }
 
 
 .right {
-    margin-left: 70%;
-    max-width: 30%;
+    margin-left: 75%;
+    max-width: 25%;
 }
 
 #display {
